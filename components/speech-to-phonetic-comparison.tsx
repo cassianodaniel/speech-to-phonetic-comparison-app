@@ -24,7 +24,7 @@ export default function SpeechToPhoneticComparison() {
   const [error, setError] = useState<string | null>(null)
   const [currentPhrase, setCurrentPhrase] = useState(phrases[0])
   const [audioBlob, setAudioBlob] = useState<Blob | null>(null)
-  const recognitionRef = useRef<SpeechRecognition | null>(null)
+  const recognitionRef = useRef<any>(null)
   const mediaRecorderRef = useRef<MediaRecorder | null>(null)
   const audioChunksRef = useRef<Blob[]>([])
 
