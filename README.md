@@ -2,6 +2,8 @@
 
 ## Watch the demo
 
+Or try it live at: https://speech-to-phonetic-comparison-app.vercel.app/
+
 [![Watch the video](https://img.youtube.com/vi/jMAuw9yMWcM/hqdefault.jpg)](https://www.youtube.com/watch?v=jMAuw9yMWcM)
 
 This project is a web application that helps users practice their pronunciation by comparing their spoken words to expected phonetic transcriptions. It uses speech recognition technology and provides instant feedback on pronunciation accuracy.
